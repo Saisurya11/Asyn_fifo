@@ -1,0 +1,1 @@
+typedef uvm_sequencer#(wr_tx) wr_sqr;
